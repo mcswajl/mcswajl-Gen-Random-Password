@@ -17,7 +17,7 @@ up on my module work, getting behind in JavaSript lessons is no good.
 ```
 
 ## Screenshot of my website 
-![Screenshot](./assets/WebpageScreenshot.png)
+![Screenshot](./Assets/WebpageScreenshot.png)
 
 The URL of the deployed application is https://mcswajl.github.io/mcswajl-Gen-Random-Password/
 
